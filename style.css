@@ -1,0 +1,38 @@
+#grid
+{
+  position: absolute;
+  background-color: '#ffffcc';
+  margin: 15px;
+  padding: 20px;
+  border: solid 5px #000;
+  left: 200px;
+  width: 700px;
+}
+
+table {
+  border: 1px solid black;
+  table-layout: fixed;
+  width: 400px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+
+#tiles
+{
+  padding: 25px;
+  font-size: 20px;
+}
+
+
+#highScore
+{
+
+}
